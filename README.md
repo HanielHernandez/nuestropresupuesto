@@ -1,2 +1,2 @@
 # Nuestro Presupuesto
-Aplicación android para conocer presupuesto de municipalidades.
+Aplicación con laravel para conocer presupuesto de municipalidades.
